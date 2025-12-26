@@ -14,21 +14,21 @@ body {
     padding: 30px;
     border-radius: 12px;
     text-align: center;
-    width: 60%;
-    height: 50%;
+    width: 70%;
+    height: 60%;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
 /* شكل الرسالة */
 .card h1 {
     color: #e91e63;
-    font-size: 22px;
+    font-size: 35px;
 }
 
 /* الصورة */
 .card img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     margin-top: 15px;
     border-radius: 10px;
 }
@@ -36,7 +36,7 @@ body {
 /* النص اللي تحت */
 .footer {
     margin-top: 50%;
-    font-size: 18px;
+    font-size: 28px;
     color: #777;
 }
 
@@ -99,6 +99,7 @@ body {
     }
 
    
+
 
 
 
