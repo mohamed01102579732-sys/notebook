@@ -15,7 +15,7 @@ body {
     border-radius: 12px;
     text-align: center;
     width: 50%;
-    height: 60%;
+    height: 70%;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
 
@@ -35,7 +35,7 @@ body {
 
 /* النص اللي تحت */
 .footer {
-    margin-top: 50%;
+    margin-top: 40%;
     font-size: 18px;
     color: #777;
 }
@@ -99,3 +99,4 @@ body {
     }
 
    
+
